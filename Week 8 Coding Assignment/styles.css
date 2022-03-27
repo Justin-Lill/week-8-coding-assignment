@@ -1,0 +1,76 @@
+body {
+    background-color: lightblue;
+    font-size: large;
+    float: left;
+    margin-top: 0%;
+}
+
+.div {
+    background-color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+#heading-1 {
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+}
+
+#heading-2 {
+    font-size: large;
+    text-decoration: underline;
+}
+
+#heading-3 {
+    text-decoration: underline dashed;
+}
+
+#p1 {
+    font-weight: bold;
+}
+
+#p2 {
+    font-style: italic;
+}
+
+#p3 {
+    font-style: oblique;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px, solid, black;
+}
+
+tr:nth-child(even) {
+    background-color: aqua;
+}
+
+tr:hover {
+    background-color: aquamarine;
+}
+
+#img1 {
+    border-radius: 20px;
+}
+
+#img2 {
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+#img3 {
+    border-radius: 100px;
+}
+
+form {
+    border-radius: 10px;
+    text-align: justify;
+}
+
